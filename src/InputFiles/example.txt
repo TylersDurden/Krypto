@@ -1,0 +1,5 @@
+The data didn’t include payment-card information or government-issued identifiers,
+including Social Security numbers and driver’s license numbers. Still, user names, 
+email addresses and password data were taken. And the sheer scope of the attack -- 
+affecting a user base that’s bigger than the population of Japan -- would make it 
+one of the larger breaches on record.
